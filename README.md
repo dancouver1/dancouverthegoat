@@ -2,7 +2,7 @@
 - 👀 I’m interested in games
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on games and productivity apps
-- 📫 How to reach me dancouverbusiness@gmail.com
+- 📫 How to reach me luckydaniar03@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I practice kickboxing and play the guitar
 
