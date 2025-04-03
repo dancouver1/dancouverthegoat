@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dancouverthegoat
+- 👋 Hi, I’m @dancouver1
 - 👀 I’m interested in games
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on games and productivity apps
